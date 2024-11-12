@@ -4,7 +4,6 @@ project:
 
 website:
   title: "Stat&J"
-  image: ladiaria.ong
   navbar:
     left:
       - href: index.qmd
