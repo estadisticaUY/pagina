@@ -1,0 +1,10 @@
+---
+title: "Proyecciones"
+---
+
+Hemos trabajado aplicando métodos estadísticos para realizar *conteos rápidos* o *proyecciones de escrutinio* en las elecciones uruguayas. 
+
+- guru 2020
+- siesta 2021 (?)
+- nota ladiaria
+- video internas 2024

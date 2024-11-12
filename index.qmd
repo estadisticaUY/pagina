@@ -1,0 +1,15 @@
+---
+title: "estadística.uy"
+---
+
+Somos un grupo de especialistas en estadística y ciencia de datos interesados en la resolución de problemas reales donde la estadística juega un rol fundamental para dar respuestas precisas.
+
+- Ana Coimbra
+- Darío
+- Nacho
+- Natalia
+- Jaime
+- Juanjo
+
+<!-- This is a Quarto website. -->
+<!-- To learn more about Quarto websites visit <https://quarto.org/docs/websites>. -->
