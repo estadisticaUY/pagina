@@ -4,3 +4,6 @@
 .Ruserdata
 
 /.quarto/
+
+*.Rproj
+*.DS_store
