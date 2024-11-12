@@ -1,10 +1,11 @@
 ---
 title: "estadística.uy"
 ---
+![](stat_image.png){width=1000px }  
 
 Somos un grupo de especialistas en estadística y ciencia de datos interesados en la resolución de problemas reales donde la estadística juega un rol fundamental para dar respuestas precisas.
 
-![](ladiaria.png){width=500px }  
+
 
 **Integrantes:**
 
